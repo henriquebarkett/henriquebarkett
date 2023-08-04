@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebarkett&layout=compact&hide_border=true&title_color=46C4B0&text_color=ff91a4&bg_color=0d1117"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amon-mn&bg_color=0d1117&color=46C4B0&line=13CFC5&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center"> 
   <h3>Social:</h3>
   <a href="https://instagram.com/henriquebarkett" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
